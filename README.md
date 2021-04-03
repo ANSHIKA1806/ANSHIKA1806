@@ -10,7 +10,7 @@
 💡 &nbsp; Hello everyone,Second year student, pursuing Bachelor of Technology in Computer Science. I do competitive coding and explore Data Science concepts. I enjoy collaborating with people on works of similar interest.
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
-✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
+✍️ &nbsp;Apart from technical interests, I like photography, reading books and playing video games.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at anshika07281@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1JPSO5DIiX7-XqxGTKV0XlzimEX1LR0w7/view) for more details about work experience.
