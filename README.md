@@ -13,7 +13,7 @@
 ✍️ &nbsp;Apart from technical interests, I like photography, reading books and playing video games.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at anshika07281@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1JPSO5DIiX7-XqxGTKV0XlzimEX1LR0w7/view) for more details about work experience.
+
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -37,8 +37,7 @@
 
 
 <a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:avinash201199@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/anshika__.24/"><img src="https://img.shields.io/badge/-@anshika__.24-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="mailto:anshika1806@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ANSHIKA1806&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
