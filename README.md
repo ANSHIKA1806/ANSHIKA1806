@@ -7,7 +7,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,Second year student, pursuing Bachelor of Technology in Computer Science. I do competitive coding and explore Data Science concepts. I enjoy collaborating with people on works of similar interest.
+💡 &nbsp; Hello everyone,
+Second year student, pursuing Bachelor of Technology in Computer Science. I do competitive coding and explore Data Science concepts. I enjoy collaborating with people on works of similar interest.
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
 ✍️ &nbsp;Apart from technical interests, I like photography, reading books and playing video games.\
