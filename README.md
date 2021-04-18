@@ -13,7 +13,7 @@
 -I enjoy collaborating with people on works of similar interest.<br>
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
-✍️ &nbsp;Apart from technical interests, I like photography, reading books and playing video games.\
+✍️ &nbsp;Apart from technical interests, I like photography, reading books and dance.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at anshika07281@gmail.com. I'll try to respond as soon as possible!\
 
