@@ -43,8 +43,8 @@
 [![Foo](Logos1/6.png)](https://www.codechef.com/users/anshika_24)
 [![Foo](Logos1/7.png)](https://www.linkedin.com/in/anshika-singh-589922164/)
 
-<img align="left" alt="Anshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ANSHIKA1806&&show_icons=true&theme=dracula" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=ANSHIKA1806&hide=java&layout=compact&theme=dracula" width="46%" />
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ANSHIKA1806&theme=dracula" width="98%">
+<img align="left" alt="Anshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ANSHIKA1806&&show_icons=true&theme=juicyfresh" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=ANSHIKA1806&hide=java&layout=compact&theme=juicyfresh" width="46%" />
+<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ANSHIKA1806&theme=juicyfresh" width="98%">
 
 
