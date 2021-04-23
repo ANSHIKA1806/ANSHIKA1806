@@ -1,6 +1,6 @@
+<h1 align="center"> Anshika </h1>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Hi there 👋
-
-
 
 ![profile count](https://komarev.com/ghpvc/?username=ANSHIKA1806&color=red)&nbsp;
 [![GitHub ANSHIKA1806](https://img.shields.io/github/followers/ANSHIKA1806?label=follow&style=social)](https://github.com/ANSHIKA1806)&nbsp;
