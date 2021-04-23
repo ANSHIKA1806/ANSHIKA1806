@@ -38,7 +38,7 @@
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="mailto:anshika1806@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836??logoWidth=40&style=for-the-badge&logo=gmail&logoColor=violet" /></a> &nbsp;
+<a href="mailto:anshika1806@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836??logoWidth=100&style=for-the-badge&logo=gmail&logoColor=black" /></a> &nbsp;
 [![Foo](Logos1/4.png)](https://www.instagram.com/anshika__.24/)
 [![Foo](Logos1/6.png)](https://www.codechef.com/users/anshika_24)
 [![Foo](Logos1/7.png)](https://www.linkedin.com/in/anshika-singh-589922164/)
