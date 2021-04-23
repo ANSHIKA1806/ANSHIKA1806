@@ -8,9 +8,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Hello everyone,<br>
-                  <br align="center">-I am a Second year student, pursuing Bachelor of Technology in Computer Science. </br>
-                  <br align="center">-I do competitive programing and explore Data Science concepts. </br>
-                  <br align="center">-I enjoy collaborating with people on works of similar interest.</br>
+-I am a Second year student, pursuing Bachelor of Technology in Computer Science. <br>
+-I do competitive programing and explore Data Science concepts. <br>
+-I enjoy collaborating with people on works of similar interest.<br>
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
 ✍️ &nbsp;Apart from technical interests, I like photography, reading books and dance.\
@@ -38,7 +38,7 @@
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="mailto:anshika1806@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836??logoHeight40=&style=for-the-badge&logo=gmail&logoColor=black" /></a> &nbsp;
+<a href="mailto:anshika1806@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836??logoHeight40=&style=for-the-badge&logo=gmail&logoColor=black&color=fedcba" /></a> &nbsp;
 [![Foo](Logos1/4.png)](https://www.instagram.com/anshika__.24/)
 [![Foo](Logos1/6.png)](https://www.codechef.com/users/anshika_24)
 [![Foo](Logos1/7.png)](https://www.linkedin.com/in/anshika-singh-589922164/)
