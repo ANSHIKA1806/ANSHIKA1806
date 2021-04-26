@@ -1,6 +1,6 @@
+<h1 align="center"> Anshika </h1>
+
 ### Hi there 👋
-
-
 
 ![profile count](https://komarev.com/ghpvc/?username=ANSHIKA1806&color=red)&nbsp;
 [![GitHub ANSHIKA1806](https://img.shields.io/github/followers/ANSHIKA1806?label=follow&style=social)](https://github.com/ANSHIKA1806)&nbsp;
@@ -38,9 +38,13 @@
 
 ### 📫 &nbsp; How to reach me:
 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anshika1806@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836??logoHeight40=&style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a> &nbsp;
+[![Foo](Logos1/4.png)](https://www.instagram.com/anshika__.24/)
+[![Foo](Logos1/6.png)](https://www.codechef.com/users/anshika_24)
+[![Foo](Logos1/7.png)](https://www.linkedin.com/in/anshika-singh-589922164/)
 
-<a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:anshika1806@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<img align="left" alt="Anshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ANSHIKA1806&&show_icons=true&theme=radical" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=ANSHIKA1806&hide=java&layout=compact&theme=radical" width="46%" />
+<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ANSHIKA1806&theme=juicyfresh" width="98%">
 
-<img align="left" alt="Anshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ANSHIKA1806&&show_icons=true&theme=dracula" width="50%" />
 
