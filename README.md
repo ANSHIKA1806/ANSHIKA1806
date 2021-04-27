@@ -44,7 +44,7 @@
 [![Foo](Logos1/7.png)](https://www.linkedin.com/in/anshika-singh-589922164/)
 [![Foo](Logos1/1.png)](https://www.hackerrank.com/AnshikaSingh18)
 [![Foo](Logos1/6.png)](https://www.codechef.com/users/anshika_24)
-[![Foo](Logos1/9.png)](https://leetcode.com/anshika18/)
+[![Foo](Logos1/9.png)](https://leetcode.com/anshika18)
 
 
 <img align="left" alt="Anshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ANSHIKA1806&&show_icons=true&theme=radical" width="50%" />
