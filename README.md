@@ -38,10 +38,15 @@
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anshika07281@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836??logoHeight40=&style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a> &nbsp;
+
+[![Foo](Logos1/8.jpg)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anshika07281@gmail.com)
+[![Foo](Logos1/7.png)](https://www.linkedin.com/in/kushagra-gupta-5a92a812a/)
 [![Foo](Logos1/4.png)](https://www.instagram.com/anshika__.24/)
-[![Foo](Logos1/6.png)](https://www.codechef.com/users/anshika_24)
 [![Foo](Logos1/7.png)](https://www.linkedin.com/in/anshika-singh-589922164/)
+[![Foo](Logos1/1.png)](https://www.hackerrank.com/AnshikaSingh18)
+[![Foo](Logos1/6.png)](https://www.codechef.com/users/anshika_24)
+[![Foo](Logos1/9.png)](https://leetcode.com/anshika18/)
+
 
 <img align="left" alt="Anshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ANSHIKA1806&&show_icons=true&theme=radical" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=ANSHIKA1806&hide=java&layout=compact&theme=radical" width="46%" />
