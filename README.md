@@ -39,7 +39,7 @@
 ### 📫 &nbsp; How to reach me:
 
 
-[![Foo](Logos1/8.jpg)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anshika07281@gmail.com)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anshika07281@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836??logoHeight40=&style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
 [![Foo](Logos1/7.png)](https://www.linkedin.com/in/kushagra-gupta-5a92a812a/)
 [![Foo](Logos1/4.png)](https://www.instagram.com/anshika__.24/)
 [![Foo](Logos1/7.png)](https://www.linkedin.com/in/anshika-singh-589922164/)
