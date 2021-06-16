@@ -1,4 +1,4 @@
-<h1 align="center"> Anshika :cherry_blossom: </h1>
+<h1 align="center"> :cherry_blossom: Anshika :cherry_blossom: </h1>
 
 ### Hi there 👋
 
