@@ -1,9 +1,18 @@
 <h1 align="center"> :cherry_blossom: Anshika Singh :cherry_blossom: </h1>
 
-### Hello Visitor 👋 &nbsp;
+## Hello Visitor 👋 &nbsp;
+
+<div align="center"><table>
+  <tr>
+    <td>You are visitor no. </td>
+    <td><img src="https://profile-counter.glitch.me/ANSHIKA1806/count.svg" alt="vistor count" height="40" /></td>
+  </tr>
+</table></div>
 
 ![profile count](https://komarev.com/ghpvc/?username=ANSHIKA1806&color=red)&nbsp;
 [![GitHub ANSHIKA1806](https://img.shields.io/github/followers/ANSHIKA1806?label=follow&style=social)](https://github.com/ANSHIKA1806)&nbsp;
+
+ --------------------------------------------------------------------------------------------------------------------------------
 
 ### 👨🏻‍💻 &nbsp;About Me
 
