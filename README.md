@@ -25,7 +25,7 @@
 
 
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -40,7 +40,7 @@
 
 
 
-### 📫 &nbsp; How to reach me:
+## 📫 &nbsp; How to reach me:
 
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anshika07281@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836??logoHeight40=&style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
