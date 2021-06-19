@@ -1,6 +1,7 @@
 <h1 align="center"> :cherry_blossom: Anshika Singh :cherry_blossom: </h1>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Hello Visitor 👋 &nbsp;
+## Hello Visitor 👋
 
 <div align="center"><table>
   <tr>
@@ -10,11 +11,12 @@
 </table></div>
 
 
- --------------------------------------------------------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 👨🏻‍💻 &nbsp;About Me
+## About Me
 
-💡 &nbsp; Hello everyone,<br>
+💡 &nbsp;
+Hello everyone,<br>
 -I am a Second year student, pursuing Bachelor of Technology in Computer Science. <br>
 -I do competitive programing, web development and explore Data Science concepts. <br>
 -I enjoy collaborating with people on works of similar interest.<br>
@@ -24,9 +26,9 @@
 -You can email me at anshika07281@gmail.com. I'll try to respond as soon as possible!<br>
 
 
-
-## 🛠 &nbsp;Tech Stack
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🛠  Tech Stack
+&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
