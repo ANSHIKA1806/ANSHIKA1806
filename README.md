@@ -18,11 +18,11 @@
 Hello everyone,<br>
 - I am a Second year student, pursuing Bachelor of Technology in Computer Science. <br>
 - I do competitive programing, web development and explore Data Science concepts. <br>
--I enjoy collaborating with people on works of similar interest.<br>
--I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science. <br>
--Apart from technical interests, I like photography, reading books and dance.<br>
--Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!<br>
--You can email me at anshika07281@gmail.com. I'll try to respond as soon as possible!<br>
+- I enjoy collaborating with people on works of similar interest.<br>
+- I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science. <br>
+- Apart from technical interests, I like photography, reading books and dance.<br>
+- Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!<br>
+- You can email me at anshika07281@gmail.com. I'll try to respond as soon as possible!<br>
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
