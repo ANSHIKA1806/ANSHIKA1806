@@ -51,7 +51,7 @@ Hello everyone,<br>
 [![Foo](Logos1/6.png)](https://www.codechef.com/users/anshika_24/)
 [![Foo](Logos1/9.png)](https://leetcode.com/anshika18/)
 
-## :trophy: My Github Stats: 
+<h2 align="center">  My Github Stats :trophy: : </h2>
 <div align="center">
   
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ANSHIKA1806&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
