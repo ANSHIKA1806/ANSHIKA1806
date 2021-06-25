@@ -21,8 +21,7 @@ Hello everyone,<br>
 - I enjoy collaborating with people on works of similar interest.<br>
 - I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science. <br>
 - Apart from technical interests, I like photography, reading books and dance.<br>
-- Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!<br>
-- You can email me at anshika07281@gmail.com. I'll try to respond as soon as possible!<br>
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -43,7 +42,7 @@ Hello everyone,<br>
 
 ## 📫 &nbsp; How to reach me:
 
-
+<center>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anshika07281@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836??logoHeight40=&style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
 [![Foo](Logos1/4.png)](https://www.instagram.com/anshika__.24/)
 [![Foo](Logos1/7.png)](https://www.linkedin.com/in/anshika-singh-589922164/)
