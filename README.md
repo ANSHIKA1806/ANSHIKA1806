@@ -52,10 +52,11 @@ Hello everyone,<br>
 [![Foo](Logos1/9.png)](https://leetcode.com/anshika18/)
 
 ## :trophy: My Github Stats: 
-<center>
+<div allign="center">
   
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ANSHIKA1806&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+ </div>
 
 <img align="left" alt="Anshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ANSHIKA1806&&show_icons=true&theme=radical" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=ANSHIKA1806&hide=java&layout=compact&theme=radical" width="46%" />
