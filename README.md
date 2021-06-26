@@ -40,7 +40,7 @@ Hello everyone,<br>
 
 
 <div align="center">
-## 📫 &nbsp; How to reach me:
+ <h2> 📫 How to reach me: &nbsp; </h2>
 
 <a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/linkedin.png" alt="Linkedin" width="50" height="50"></a>
 <a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/instagram.png" alt="Instagram" width="50" height="50"></a>
@@ -48,9 +48,9 @@ Hello everyone,<br>
 <a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/github.png" alt="Linkedin" width="50" height="50"></a>
 <a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/twitter.png" alt="Linkedin" width="50" height="50"></a>
 <a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/fb.png" alt="Linkedin" width="50" height="50"></a>
-<a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/codechef.jpg" alt="Linkedin" width="50" height="50"></a>
 <a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/LeetCode.png" alt="Linkedin" width="50" height="50"></a>
 <a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/HackerRank.png" alt="Linkedin" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/codechef.jpg" alt="Linkedin" width="50" height="50"></a>
 </div>
 <h2 align="center">  My Github Stats :trophy: : </h2>
 <div align="center">
