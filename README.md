@@ -41,7 +41,7 @@ Hello everyone,<br>
 
 
 ## 📫 &nbsp; How to reach me:
-<img src="Logos1/linkedin.png" alt="Flowers in Chania" width="50" height="50">
+<a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/linkedin.png" alt="Linkedin" width="50" height="50"></a>
 
 <h2 align="center">  My Github Stats :trophy: : </h2>
 <div align="center">
