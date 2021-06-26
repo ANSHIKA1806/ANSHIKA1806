@@ -41,8 +41,7 @@ Hello everyone,<br>
 
 
 ## 📫 &nbsp; How to reach me:
-
-![linedin](Logos1/linkedin.png)
+<img src="img_chania.jpg" alt="Flowers in Chania" style="width:50px;height:60px;">
 <!-- <!-- 
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anshika07281@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836??logoHeight40=&style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
