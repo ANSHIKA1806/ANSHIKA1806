@@ -42,15 +42,16 @@ Hello everyone,<br>
 
 ## 📫 &nbsp; How to reach me:
 
+![linedin](Logos1/linkedin.png)
+<!-- <!-- 
 
-  
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anshika07281@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836??logoHeight40=&style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
 [![Foo](Logos1/4.png)](https://www.instagram.com/anshika__.24/)
 [![Foo](Logos1/7.png)](https://www.linkedin.com/in/anshika-singh-589922164/)
 [![Foo](Logos1/1.png)](https://www.hackerrank.com/AnshikaSingh18/)
 [![Foo](Logos1/6.png)](https://www.codechef.com/users/anshika_24/)
 [![Foo](Logos1/9.png)](https://leetcode.com/anshika18/)
-
+ --> -->
 <h2 align="center">  My Github Stats :trophy: : </h2>
 <div align="center">
   
