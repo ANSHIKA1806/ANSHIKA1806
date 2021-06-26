@@ -41,7 +41,7 @@ Hello everyone,<br>
 
 
 ## 📫 &nbsp; How to reach me:
-<img src="Logos1/linkedin.png" alt="Flowers in Chania" style="width:10px;height:10px;">
+<img src="Logos1/linkedin.png" alt="Flowers in Chania" width="10" height="10">
 
 <h2 align="center">  My Github Stats :trophy: : </h2>
 <div align="center">
