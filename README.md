@@ -49,7 +49,7 @@ Hello everyone,<br>
 <a href="#"><img src="Logos1/twitter.png" alt="Twitter" width="50" height="50"></a>
 <a href="#"><img src="Logos1/fb.png" alt="Facebook" width="50" height="50"></a>
 <a href="https://leetcode.com/anshika18/"><img src="Logos1/LeetCode.png" alt="Leetcode" width="50" height="50"></a>
-<a href="https://www.hackerrank.com/dashboard"><img src="Logos1/HackerRank.png" alt="HackerRank" width="50" height="50"></a>
+<a href="https://www.hackerrank.com/AnshikaSingh18"><img src="Logos1/HackerRank.png" alt="HackerRank" width="50" height="50"></a>
 <a href="https://www.codechef.com/users/anshika_24"><img src="Logos1/codechef.jpg" alt="Codechef" width="50" height="50"></a>
 </div>
 <h2 align="center">  My Github Stats :trophy: : </h2>
