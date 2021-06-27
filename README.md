@@ -43,14 +43,14 @@ Hello everyone,<br>
  <h2> 📫 How to reach me: &nbsp; </h2>
 
 <a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/linkedin.png" alt="Linkedin" width="50" height="50"></a>
-<a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/instagram.png" alt="Instagram" width="50" height="50"></a>
-<a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/discord.png" alt="Linkedin" width="50" height="50"></a>
-<a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/github.png" alt="Linkedin" width="50" height="50"></a>
-<a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/twitter.png" alt="Linkedin" width="50" height="50"></a>
-<a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/fb.png" alt="Linkedin" width="50" height="50"></a>
-<a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/LeetCode.png" alt="Linkedin" width="50" height="50"></a>
-<a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/HackerRank.png" alt="Linkedin" width="50" height="50"></a>
-<a href="https://www.linkedin.com/in/anshika-singh-589922164/"><img src="Logos1/codechef.jpg" alt="Linkedin" width="50" height="50"></a>
+<a href="https://www.instagram.com/anshika__.24/"><img src="Logos1/instagram.png" alt="Instagram" width="50" height="50"></a>
+<a href="https://discord.com/channels/@me"><img src="Logos1/discord.png" alt="Discord" width="50" height="50"></a>
+<a href="https://github.com/ANSHIKA1806"><img src="Logos1/github.png" alt="GitHub" width="50" height="50"></a>
+<a href="#"><img src="Logos1/twitter.png" alt="Twitter" width="50" height="50"></a>
+<a href="#"><img src="Logos1/fb.png" alt="Facebook" width="50" height="50"></a>
+<a href="https://leetcode.com/anshika18/"><img src="Logos1/LeetCode.png" alt="Leetcode" width="50" height="50"></a>
+<a href="https://www.hackerrank.com/dashboard"><img src="Logos1/HackerRank.png" alt="HackerRank" width="50" height="50"></a>
+<a href="https://www.codechef.com/users/anshika_24"><img src="Logos1/codechef.jpg" alt="Codechef" width="50" height="50"></a>
 </div>
 <h2 align="center">  My Github Stats :trophy: : </h2>
 <div align="center">
