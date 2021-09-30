@@ -55,7 +55,7 @@ Hello everyone,<br>
 <h2 align="center">  My Github Stats :trophy: : </h2>
 <div align="center">
   
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ANSHIKA1806&theme=highcontrast)](https://github.com/ANSHIKA1806/github-readme-streak-stats)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ANSHIKA1806&theme=highcontrast)]
 
  </div>
 
