@@ -39,8 +39,6 @@ Hello everyone,<br>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 &nbsp;
 
-
-
 <div align="center">
  <h2> 📫 How to reach me: &nbsp; </h2>
 
