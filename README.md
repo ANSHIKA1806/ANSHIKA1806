@@ -61,9 +61,9 @@ I am an avid computer science learner as I am fascinated by all the things compu
 
  </div>
 
-<img align="left" alt="Anshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ANSHIKA1806&&show_icons=true&theme=radical" width="49%" height="100"/>
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSHIKA1806&layout=compact&theme=dark" width="49%" height="100"/>
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ANSHIKA1806&theme=juicyfresh" width="100%"height="100">
+<img align="left" alt="Anshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ANSHIKA1806&&show_icons=true&theme=radical" width="49%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSHIKA1806&layout=compact&theme=dark" width="49%" />
+<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ANSHIKA1806&theme=juicyfresh" width="100%">
 
 
 
