@@ -1,13 +1,8 @@
 <h1 align="center"> :cherry_blossom: Anshika :cherry_blossom: </h1>
 
- ## Hello Visitor  👋
+ ## Hello Visitor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<div align="center"><table>
-  <tr>
-    <td>You are visitor no. </td>
-    <td><img src="https://profile-counter.glitch.me/ANSHIKA1806/count.svg" alt="vistor count" height="40" /></td>
-  </tr>
-</table></div>
+
 
 
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
