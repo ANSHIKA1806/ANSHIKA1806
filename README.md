@@ -5,7 +5,7 @@
 <div align="center"><table>
   <tr>
     <td>You are visitor no. </td>
-    <td><img src="https://profilecounter.glitch.me/ANSHIKA1806/count.svg" alt="vistor count" height="40" /></td>
+    <td><img src="https://profile-counter.glitch.me/ANSHIKA1806/count.svg" alt="vistor count" height="40" /></td>
   </tr>
 </table></div>
 
