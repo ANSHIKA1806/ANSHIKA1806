@@ -13,14 +13,14 @@
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## About Me
-
+I am an avid computer science learner as I am fascinated by all the things computers can do. I find myself regularly trying to learn new algorithms and techniques that I can implement in my projects. I am a diligent, motivated girl and a rational thinker.
 💡 &nbsp;
 Hello everyone,<br>
 - I am a third year student, pursuing Bachelor of Technology in Computer Science. <br>
-- I do competitive programing, web development and explore Data Science concepts. <br>
+- I do competitive programing, Web Development and explore Data Science concepts. <br>
 - I enjoy collaborating with people on works of similar interest.<br>
 - I'm on track for learning more about Full stack development, Artificial Intelligence, Machine learning and Data Science. <br>
-- Apart from technical interests, I like photography, reading books and dance.<br>
+- Apart from technical interests, I like reading books and dance.<br>
 
 
 
