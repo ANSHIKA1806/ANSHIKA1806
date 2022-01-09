@@ -5,7 +5,7 @@
 <div align="center"><table>
   <tr>
     <td>You are visitor no. </td>
-    <td><img src="https://profile-counter.glitch.me/ANSHIKA1806/count.svg" alt="vistor count" height="40" /></td>
+    <td><img src="https://profilecounter.glitch.me/ANSHIKA1806/count.svg" alt="vistor count" height="40" /></td>
   </tr>
 </table></div>
 
@@ -13,9 +13,11 @@
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## About Me
-I am an avid computer science learner as I am fascinated by all the things computers can do. I find myself regularly trying to learn new algorithms and techniques that I can implement in my projects. I am a diligent, motivated girl and a rational thinker.
+
 💡 &nbsp;
 Hello everyone,<br>
+I am an avid computer science learner as I am fascinated by all the things computers can do. I find myself regularly trying to learn new algorithms and techniques that I can implement in my projects. I am a diligent, motivated girl and a rational thinker.
+
 - I am a third year student, pursuing Bachelor of Technology in Computer Science. <br>
 - I do competitive programing, Web Development and explore Data Science concepts. <br>
 - I enjoy collaborating with people on works of similar interest.<br>
