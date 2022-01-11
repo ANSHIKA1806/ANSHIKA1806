@@ -31,7 +31,6 @@ I am an avid computer science learner as I am fascinated by all the things compu
 
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>  
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"></code>  
@@ -41,7 +40,7 @@ I am an avid computer science learner as I am fascinated by all the things compu
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="15%" src=""></code>
+  
   
 &nbsp;
 
