@@ -69,5 +69,4 @@ I am an avid computer science learner as I am fascinated by all the things compu
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ANSHIKA1806&theme=juicyfresh" width="100%">
 
 
-
 ![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)
